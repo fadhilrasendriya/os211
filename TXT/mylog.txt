@@ -3,3 +3,4 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L03 Github Related
 ZCZC W01 105 L21 VirtualBox: install GNU/Linux, etc.
+ZCZC W00 5 L04 GitHub Pages: setting, etc.
