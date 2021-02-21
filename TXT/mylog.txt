@@ -5,4 +5,4 @@ ZCZC W00 10 L03 Github Related
 ZCZC W00 105 L21 VirtualBox: install GNU/Linux, etc.
 ZCZC W00 5 L04 GitHub Pages: setting, etc.
 ZCZC W00 5 L23 Discord: join os server
-ZCZC W00 30 L06 Reading Slides
+ZCZC W00 30 L06 Reading W0 Slides
