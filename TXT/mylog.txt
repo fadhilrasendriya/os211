@@ -10,3 +10,4 @@ ZCZC W00 100 L02 ZOOM related
 ZCZC W00 60 L06 Reading linuxfromscratch
 ZCZC W00 15 L05 GSGS ssh
 ZCZC W00 87 L06 Reading References/Books/Documents
+ZCZC W00 30 L08 Trying something
