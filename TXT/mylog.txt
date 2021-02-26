@@ -8,3 +8,4 @@ ZCZC W00 5 L23 Discord: join os server
 ZCZC W00 30 L06 Reading W0 Slides
 ZCZC W00 100 L02 ZOOM related
 ZCZC W00 60 L06 Reading linuxfromscratch
+ZCZC W00 15 L05 GSGS ssh
