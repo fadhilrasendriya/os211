@@ -15,3 +15,4 @@ ZCZC W01 115 L02 ZOOM related
 ZCZC W01 15 L08 Trying vim
 ZCZC W01 40 L11 Assignment #1
 ZCZC W01 5 L05 GSGS vim
+ZCZC W01 30 L12 Assignment #2
