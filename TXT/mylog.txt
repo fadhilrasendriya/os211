@@ -18,3 +18,4 @@ ZCZC W01 5 L05 GSGS vim
 ZCZC W01 30 L12 Assignment #2
 ZCZC W01 30 L13 Assignment #3
 ZCZC W01 14 L22 YouTube: study, etc.
+ZCZC W01 10 L05 GSGS Related
