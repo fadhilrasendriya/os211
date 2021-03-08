@@ -33,4 +33,5 @@ ZCZC W01 90 L04 GitHub Pages: setting, etc.
 # Week 2
 
 ZCZC W02 55 L08 Trying something.
+ZCZC W02 15 L22 Youtube: regex
 
