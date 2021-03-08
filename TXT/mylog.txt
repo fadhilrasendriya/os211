@@ -30,3 +30,7 @@ ZCZC W01 50 L05 GSGS Related
 ZCZC W01 150 L23 Discord: helping friend.
 ZCZC W01 90 L04 GitHub Pages: setting, etc.
 
+# Week 2
+
+ZCZC W02 55 L08 Trying something.
+
