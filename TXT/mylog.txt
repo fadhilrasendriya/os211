@@ -36,4 +36,5 @@ ZCZC W02 55 L08 Trying something.
 ZCZC W02 15 L22 Youtube: regex
 ZCZC W02 80 L02 ZOOM Related
 ZCZC W02 60 L11 Assignment #1
+ZCZC W02 90 L12 Assignment #2
 
