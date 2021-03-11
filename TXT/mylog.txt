@@ -37,4 +37,8 @@ ZCZC W02 15 L22 Youtube: regex
 ZCZC W02 80 L02 ZOOM Related
 ZCZC W02 60 L11 Assignment #1
 ZCZC W02 90 L12 Assignment #2
+ZCZC W02 10 L13 Assignment #3
+ZCZC W02 5 L14 Assignment #4
+ZCZC W02 3 L15 Assignment #5
+ZCZC W02 10 L16 Assignment #6
 
