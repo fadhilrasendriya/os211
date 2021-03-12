@@ -43,4 +43,8 @@ ZCZC W02 9 L22 Youtube: session hijacking
 ZCZC W02 135 L04 GitHub Pages: styling.
 ZCZC W02 54 L17 Assignment #7
 ZCZC W02 3 L08 Trying checksum
+ZCZC W02 60 L05 GSGS signing commit
+ZCZC W02 60 L18 Assignment #8
+ZCZC W02 5 L19 Assignment #9
+ZCZC W02 5 L20 Assignment #10
 
