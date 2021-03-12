@@ -3,20 +3,23 @@
     <head>
         <meta charset="utf-8">
         <title>{{ page.title }}</title>
-	<link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon">
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+        <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon">
     </head>
     <body>
-        <h1>os211</h1>
-        <h2>Fadhil Rasendriya Prabowo --- Yogyakarta</h2>
-        <div>
-            <a href="{{ site.baseurl }}/">Home</a>
-            <a href="{{ site.baseurl }}/W01/">W01</a>
-            <a href='{{ site.baseurl }}/TXT/mypubkey.txt'>KEY</a>
-            <a href='{{ site.baseurl }}/TXT/myrank.txt'>RANK</a>
-            <a href="{{ site.baseurl }}/TXT/mylog.txt">Log</a>
-            <a href="{{ site.urlgithub }}">Github</a>
-        </div>
-        <div>
+        <div class="container" id="header">
+            <div class="row">
+                <div class="col">
+                    <img class="profile-img" src="{{ site.baseurl }}/assets/images/dima.jpg" alt="dima">
+                </div>
+                <div class="col">
+                    <h1>Operating Systems 2021-1 (OS211)</h1>
+                    <h2>Fadhil Rasendriya Prabowo --- Yogyakarta</h2>
+                </div>
+            </div>
+       </div>
+            {% include navbar.html %}
+        <div class="container main-content">
             {{ content }}
         </div>
     </body>

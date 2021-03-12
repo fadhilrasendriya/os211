@@ -1,0 +1,57 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #FBE8D0;
+}
+a {
+  text-decoration: none;
+}
+li::marker {
+  font-size: 24px;
+}
+
+.container {
+    max-width: 70%;
+    margin: 0 auto;
+    padding: 10px;
+}
+#header {
+    background-color: #CEAD92;
+}
+.col {
+  float: left;
+  margin: 30px;
+  padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.profile-img {
+  width: 150px;
+}
+.navlist {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.navlist .listitem {
+  display: inline;
+  padding: 3px;
+}
+.navbar {
+  background-color: #CEAD92;
+  width: 70%;
+  margin: 20px auto;
+  padding: 10px;
+}
+.main-content h1 {
+  text-align: center;
+}
+.main-content p{
+  font-size: 24px;
+}
+
