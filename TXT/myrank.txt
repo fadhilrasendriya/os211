@@ -2,4 +2,7 @@
 ZCZC W01 faustaadp
 ZCZC W01 fadlia68
 ZCZC W01 faishol01
+ZCZC W02 frsardhf
+ZCZC W02 faishol01
+ZCZC W02 fadlia68
 
