@@ -57,4 +57,6 @@ ZCZC W03 28 L08 Trying something
 ZCZC W03 20 L22 Youtube
 ZCZC W03 200 L05 GSGS Related.
 ZCZC W03 30 L15 Assignment #5
+ZCZC W03 10 L16 Assignment #6
+ZCZC W03 60 L17 Assignment #7
 
