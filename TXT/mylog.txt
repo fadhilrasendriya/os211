@@ -59,4 +59,8 @@ ZCZC W03 200 L05 GSGS Related.
 ZCZC W03 30 L15 Assignment #5
 ZCZC W03 10 L16 Assignment #6
 ZCZC W03 60 L17 Assignment #7
+ZCZC W04 60 L05 GSGS
+ZCZC W04 120 L06 Reading References/Books/Documents
+ZCZC W04 180 L22 Youtube
+ZCZC W04 60 L12 Assignment #2
 
