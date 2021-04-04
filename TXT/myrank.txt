@@ -8,3 +8,6 @@ ZCZC W02 fadlia68
 ZCZC W03 fadlia68
 ZCZC W03 faishol01
 ZCZC W03 freezetabs
+ZCZC W04 fadlia68
+ZCZC W04 faishol01
+ZCZC W04 faustaadp
