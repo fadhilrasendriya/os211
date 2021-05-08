@@ -17,3 +17,6 @@ ZCZC W05 faustaadp
 ZCZC W06 fadlia68
 ZCZC W06 faishol01
 ZCZC W06 faustaadp
+ZCZC W07 fadlia68
+ZCZC W07 faishol01
+ZCZC W07 faustaadp
